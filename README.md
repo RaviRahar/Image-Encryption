@@ -18,8 +18,7 @@ Libraries Used: pycryptodomex, opencv-python, rsa
 | Algorithm | Block Size(Bits) | Key Size(Bits) |
 |-----------|------------------|----------------|
 | DES       | 64               | 56             |
-| 3DES      | 64               | 168            |
-| AES       | 128              | 256            |
+| 3DES      | 64               | 168            | | AES       | 128              | 256            |
 | RSA       | 128              | 256            |
 
 # Files Division:
@@ -35,14 +34,13 @@ Libraries Used: pycryptodomex, opencv-python, rsa
 
 # Screenshots
 
-![Original][Original]
-![DES][DES]
-![DES3][DES3]
-![AES][AES]
-![RSA][RSA]
-
-[Original]: https://github.com/RaviRahar/ImageEncryption/tree/master/Example/target.jpg
-[DES]:      https://github.com/RaviRahar/ImageEncryption/tree/master/Example/DES.jpg
-[DES3]:     https://github.com/RaviRahar/ImageEncryption/tree/master/Example/DES3.jpg
-[AES]:      https://github.com/RaviRahar/ImageEncryption/tree/master/Example/AES.jpg
-[RSA]:      https://github.com/RaviRahar/ImageEncryption/tree/master/Example/RSA.jpg
+- Original Image
+![Original](./Example/target.jpg)
+- DES Encrypted
+![DES](./Example/DES.jpg)
+- 3DES Encrypted
+![DES3](./Example/DES3.jpg)
+- AES Encrypted
+![AES](./Example/AES.jpg)
+- RSA Encrypted
+![RSA](./Example/RSA.jpg)
