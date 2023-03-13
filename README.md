@@ -1,4 +1,6 @@
 # General Info
+A quick script to encrypt and decrypt images
+
 Author:         Ravi Rahar  
 Language Used:  Python  
 Libraries Used: pycryptodomex, opencv-python, rsa
